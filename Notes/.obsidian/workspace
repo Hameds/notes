@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "f373136087774034",
+    "type": "split",
+    "children": [
+      {
+        "id": "8108821bb36d3bdd",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "385879c899cc39c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aaaa305ef9aa981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3aaf222d7434101",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d35e96052ccbdb97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cef01a86368c86e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "92a1a6132d707a8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad90d15b03c7f755",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8108821bb36d3bdd",
+  "lastOpenFiles": [
+    "Voluntarily/Karej.md",
+    "خبرنامه کارِج.md"
+  ]
+}
